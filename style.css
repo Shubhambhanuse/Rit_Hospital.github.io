@@ -13,8 +13,8 @@
     margin: 100px auto 0px auto;
 }
 body{
-    background:url("file:///C:/Users/Admin/Pictures/hospital-building-modern-parking-lot-59693686.jpg");
-    background-size: 180%;
+    background:url("/images/stafford-hospital-img.jpg");
+    background-size: 150%;
     background-position: -400px 0px;
 }
 div.main{
@@ -68,5 +68,5 @@ input#submit{
 }
 text,span,h2{
     text-shadow: 1px 1px 5px  rgba(0,0,0,0.3);
-   
+
 }
